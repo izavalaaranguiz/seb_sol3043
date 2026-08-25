@@ -1,8 +1,8 @@
 # Archivos de renderizado de Quarto
 /.quarto/
-*_files/
-*_cache/
-*.html
+_files/
+_cache/
+.html
 
 # Salidas de PDF/PPTX generadas (deja el .qmd fuente, no el output si prefieres no versionarlo)
 # Descomenta la siguiente línea si NO quieres subir el PDF/PPTX final:

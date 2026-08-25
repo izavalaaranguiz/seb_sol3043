@@ -4,7 +4,7 @@ subtitle: |
   Adriaans, J. & Sauer, C. (2026), *Köl. Z. Soziol.*<br>
   Presentación de paper para Sociología del Estado de Bienestar (SOL3043) <br>
   <a href="mailto:ignacio.zavala@uc.cl">ignacio.zavala@uc.cl</a> ·
-  <a href="https://github.com/izavalaaranguiz/ayudantias_sol515">GitHub</a>
+  <a href="https://github.com/izavalaaranguiz">GitHub</a>
 author: "Ignacio Zavala Aránguiz"
 format:
   revealjs:
