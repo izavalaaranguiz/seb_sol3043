@@ -1,38 +1,10 @@
-# Archivos de renderizado de Quarto
-/.quarto/
-_files/
-_cache/
-.html
+# .gitignore
 
-# Salidas de PDF/PPTX generadas (deja el .qmd fuente, no el output si prefieres no versionarlo)
-# Descomenta la siguiente línea si NO quieres subir el PDF/PPTX final:
-# presentacion_seb.pdf
-
-# Archivos temporales de LaTeX (si usas pdf via LaTeX)
-*.aux
-*.log
-*.out
-*.toc
-*.nav
-*.snm
-*.vrb
-*.synctex.gz
-
-# Archivos del sistema
-.DS_Store
-Thumbs.db
-
-# Entornos y configuraciones de editor
-.Rproj.user/
 .Rhistory
-.RData
-.Ruserdata
+.Rproj.user/
+.DS_Store
 *.Rproj
+/.quarto/
+*_cache/
+.Rdata
 
-# Archivos temporales de Office al editar docx/pptx
-~$*.docx
-~$*.pptx
-~$*.xlsx
-
-# Fuentes locales (si no quieres subir los .TTF por licencia)
-# *.TTF

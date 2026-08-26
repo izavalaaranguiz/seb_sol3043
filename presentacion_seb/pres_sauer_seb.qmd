@@ -55,11 +55,11 @@ La justicia distributiva no depende solo de **cuánto se gana**, sino de si ese 
 :::
 
 ::: {.fragment fragment-index="2"}
--  Para 2023, el salario/hora promedio en el Este era **~17% menor que en el Oeste**. Diferencias demográficas persistentes: menor densidad poblacional, mayor edad mediana, menor proporción de inmigrantes y diferencias estructurales en la composición industrial y de la fuerza laboral [@adriaans2026; @krause2019] .
+-  Para 2023, el salario/hora promedio en el Este era **~17% menor que en el Oeste**. Diferencias demográficas persistentes: menor densidad poblacional, mayor edad mediana, menor proporción de inmigrantes y diferencias estructurales en la composición industrial y laboral [@adriaans2026; @krause2019] .
 :::
 
 ::: {.fragment fragment-index="3"}
-En Alemania las brechas *subjetivas* Este–Oeste son antiguas y persistentes: menor satisfacción con la vida, mayor preocupación económica y menor confianza institucional en el Este [@krause2010; @braun2023; @hulle2018].
+- Las brechas *subjetivas* Este–Oeste son **antiguas y persistentes**: menor satisfacción con la vida, mayor preocupación económica y menor confianza institucional en el Este [@krause2010; @braun2023; @hulle2018].
 :::
 
 
@@ -83,9 +83,7 @@ Fuente: @pew2019.
 ::: columns
 ::: {.column width="60%"}
 ::: {.fragment fragment-index="1"}
-Debate actual: ¿han aumentado/bajado las diferencias entre Alemania del Este y del Oeste en términos de **actitudes, ideologías y condiciones de vida**? [@mau2024; @campbell2023]
-
-Si las diferencias regionales en *la percepción de justicia salarial se han modificado con el tiempo*, **podría reflejar una legitimación más cohesionada de la desigualdad económica en la Alemania unificada** [@adriaans2026].
+Debate actual: ¿han aumentado/bajado las diferencias entre Alemania del Este y del Oeste en términos de **actitudes, ideologías y condiciones de vida**? [@mau2024; @campbell2023] $\rightarrow$ **podría reflejar una legitimación más cohesionada de la desigualdad económica en la Alemania unificada** [@adriaans2026].
 :::
 
 ::: {.fragment fragment-index="2"}
@@ -100,9 +98,7 @@ Si las diferencias regionales en *la percepción de justicia salarial se han mod
 - **O2:** Examinar si existe una **convergencia real en estas percepciones** y descifrar qué dinámicas del mercado laboral (como los cambios en los salarios reales o políticas públicas) la han impulsado.
 :::
 
-::: {.fragment fragment-index="5"}
-- **O3:** Identificar si las diferencias de percepción persisten una vez **ajustados los modelos por factores individuales** (composición de la fuerza laboral) y variables estructurales del mercado de trabajo.
-:::
+
 :::
 
 ::: {.column width="40%"}
@@ -121,15 +117,15 @@ Fuente:  @adriaans2026.
 ## Antecedentes teóricos: equidad, reciprocidad y comparación social {.smaller}
 
 ::: fragment
-La sociología de la justicia pregunta **qué se percibe socialmente como justo** (empírico) [@liebig2016; @sabbagh2016]. Las percepciones de justicia son un pilar del orden social: se vinculan a **legitimidad, cooperación y confianza institucional**.
+La sociología de la justicia pregunta **qué se percibe socialmente como justo** (empírico) . Las percepciones de justicia son un pilar del orden social: se vinculan a **legitimidad, cooperación y confianza institucional** [@liebig2016; @sabbagh2016].
 :::
 
 ::: fragment
-- **Teoría de la equidad** [@adams1965]: se evalúa si la razón insumos/recompensas es *proporcional a la de otros*. Norma de reciprocidad: mayor esfuerzo, habilidades o responsabilidad $\rightarrow$ se espera mayor retribución [@adriaans2023a].
+- **Teoría de la equidad y reciprocidad** [@adams1965]: se evalúa si la razón insumos/recompensas es *proporcional a la de otros*. Mayor esfuerzo, habilidades o responsabilidad $\rightarrow$ se espera mayor retribución [@adriaans2023a].
 :::
 
 ::: fragment
-- **Comparación social:** no evaluamos el salario en el vacío, sino frente a grupos o categorías de referencia, ocupaciones similares, personas con calificación comparable [@bygren2004; @eisnecker2024]. Estos referentes están social e institucionalmente estructurados (segmentación laboral, visibilidad, región) [@sauer2025].
+- **Comparación social** ante categorías de referencia, ocupaciones similares, personas con calificación comparable [@bygren2004; @eisnecker2024] social e institucionalmente estructuradas (segmentación laboral, visibilidad, región) [@sauer2025].
 :::
 
 ::: fragment
@@ -141,7 +137,7 @@ La sociología de la justicia pregunta **qué se percibe socialmente como justo*
 ## Antecedentes teóricos: equidad, reciprocidad y comparación social {.smaller}
 
 ::: fragment
-La injusticia surge cuando el salario real se desvía del estándar considerado justo: **subpago** vs. **sobrepago**. La **magnitud** de la desviación importa: brechas mayores $\rightarrow$ percepciones de injusticia (**"lo merecido" vs. "lo obtenido"**) más intensas y consecuencias más severas [@jasso1978; @jasso2016].
+Injusticia $\rightarrow$ salario real se desvía del estándar considerado justo: **subpago** vs. **sobrepago**. Brechas mayores $\rightarrow$ percepciones de injusticia (**"lo merecido" vs. "lo obtenido"**) más intensas y consecuencias más severas [@jasso1978; @jasso2016].
 :::
 
 ::: fragment
@@ -150,13 +146,12 @@ Los principios de justicia legítimos (equidad vs. igualdad vs. necesidad) **var
 - **Este alemán:** mayor respaldo histórico a la *igualdad de resultados*
 - **Oeste alemán:** mayor peso de la *equidad* meritocrática
 
-[@pickel2023]: la insatisfacción del Este no se explica solo por desventaja objetiva, sino también por **privación relativa** y falta de reconocimiento respecto del Oeste $\rightarrow$ potencial **deslegitimación del orden económico** $\rightarrow$ Conflictos regionales.
+@pickel2023: la insatisfacción del Este como **privación relativa** y falta de reconocimiento respecto del Oeste $\rightarrow$ potencial **deslegitimación del orden económico** $\rightarrow$ Conflictos regionales.
 :::
 
 ::: fragment
-Si las diferencias estructurales objetivas entre Este y Oeste se reducen con el tiempo (salarios, empleo), **se esperaría también una convergencia en las percepciones subjetivas de justicia**. Es decir, la convergencia de justicia salarial no es solo cosmética, sino un indicador de una legitimación compartida del orden económico en la Alemania unificada:
 
-- "Changing fairness percepcionts over time therefore *reflects changes in the social and institutional environments that shape "what is fair" in labor market reward allocations*" [@adriaans2026, p. 417]
+- "Changing fairness perceptions over time therefore *reflects changes in the social and institutional environments that shape "what is fair" in labor market reward allocations*" [@adriaans2026, p. 417]
 
 :::
 
