@@ -6,6 +6,12 @@ Presentación del curso **Sociología del Estado de Bienestar (SOL3043)**, basad
 
 📈​[Presentación](https://izavalaaranguiz.github.io/seb_sol3043/presentacion_seb/pres_sauer_seb.html)
 
+# Del estallido al Rechazo: cambio y estabilidad de valoraciones hacia políticas indígenas en Chile, 2016–2023
+
+
+
+📈[Presentación](https://izavalaaranguiz.github.io/seb_sol3043/elri_seb/pres_estabilidad_politicas_indigenas.html)
+
 ## Autor
 
 Ignacio Zavala Aránguiz — SOL3043, 2026.
