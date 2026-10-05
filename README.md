@@ -1,4 +1,4 @@
-# Percepciones de justicia salarial: convergencia Este-Oeste en Alemania
+## Percepciones de justicia salarial: convergencia Este-Oeste en Alemania
 
 Presentación del curso **Sociología del Estado de Bienestar (SOL3043)**, basada en el artículo:
 
@@ -6,7 +6,7 @@ Presentación del curso **Sociología del Estado de Bienestar (SOL3043)**, basad
 
 📈​[Presentación](https://izavalaaranguiz.github.io/seb_sol3043/presentacion_seb/pres_sauer_seb.html)
 
-# Del estallido al Rechazo: cambio y estabilidad de valoraciones hacia políticas indígenas en Chile, 2016–2023
+## Del estallido al Rechazo: cambio y estabilidad de valoraciones hacia políticas indígenas en Chile, 2016–2023
 
 Informe de Investigación para **Sociología del Estado de Bienestar (SOL3043)**
 
