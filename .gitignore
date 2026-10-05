@@ -8,3 +8,8 @@
 *_cache/
 .Rdata
 
+
+# Datos y scripts de elri_seb (fuera del repo salvo lo necesario para pres_estabilidad_politicas_indigenas)
+elri_seb/*.R
+elri_seb/data_elri/*.dta
+elri_seb/build/
